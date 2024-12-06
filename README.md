@@ -19,8 +19,9 @@ Follow these steps to set up and run the project on your local machine:
    git clone https://github.com/chiman45/Weather-App-Repo.git
    cd Weather-App-Repo
 2.Install Dependencies: Make sure you have Node.js installed, then run:
+ ```bash
 npm install
-
+```
 3.Start the Server: Start the application by running:
 node main.js 3000
 
