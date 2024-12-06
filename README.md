@@ -23,7 +23,9 @@ Follow these steps to set up and run the project on your local machine:
 npm install
 ```
 3.Start the Server: Start the application by running:
-node main.js 3000
+```bash
+node main.js 
+```
 
 4.Access the Website: Open your browser and go to:
 http://localhost:3000
